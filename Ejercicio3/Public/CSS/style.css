@@ -1,0 +1,124 @@
+span{
+	
+	
+
+}
+.Tamanos{
+	display: inline-block;
+	font-family: arial;
+	
+	
+
+
+
+}
+.Tamanos ul{
+
+	display: inline-block;
+	list-style: none;
+	text-transform:uppercase;
+	
+
+}
+.Tamanos ul li {
+
+	display: inline-block;
+	list-style: none;
+	background-color: #F4F3F2;
+	color: #707171;
+	
+	border-radius: 5px;
+	text-align: center;
+	
+
+}
+.normal{
+	margin-top:2rem;
+	width: 6rem;
+	height: 2rem;
+	line-height: 1.9rem;
+	font-size:0.9rem;
+}
+.pequeno{
+	width: 6rem;
+	height: 1.5rem;
+	line-height: 1.4rem;
+	font-size:0.7rem;
+
+}
+.grande{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-bottom: 2rem;
+	font-size: 1.2rem;
+}
+.colores{
+	display: inline-block;
+	list-style: none;
+	font-family: arial;
+}
+.colores ul{
+
+	list-style: none;
+	text-transform:uppercase;
+}
+.colores ul li{
+	display: inline-block;
+	color:white;
+	border-radius: 5px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+
+	line-height: 3rem;
+	text-align: center;
+	margin:0;
+	margin-right: 1rem;
+}
+.colores2{
+	display: inline-block;
+	list-style: none;
+	font-family: arial;
+}
+.colores2 ul{
+
+	list-style: none;
+	text-transform:uppercase;
+}
+.colores2 ul li{
+	border-color: red;
+	display: inline-block;
+	color:white;
+	border-radius: 5px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	border:1px solid;
+	line-height: 3rem;
+	text-align: center;
+	margin:0;
+	margin-right: 1rem;
+}
+.combinaciones{
+	display: inline-block;
+	list-style: none;
+	font-family: arial;
+}
+.combinaciones ul{
+
+	list-style: none;
+	text-transform:uppercase;
+}
+.combinaciones ul li{
+	border-color: red;
+	display: inline-block;
+	color:white;
+	border-radius: 5px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	border:1px solid;
+	line-height: 3rem;
+	text-align: center;
+	margin:0;
+	margin-right: 1rem;
+}
